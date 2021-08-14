@@ -1,0 +1,10 @@
+﻿{
+    "Author": "ButchMonkey",
+    "Name": "Tooltip MB Data",
+    "Description": "Adds Market Board price data in item tooltips",
+    "InternalName": "TooltipMBData",
+    "AssemblyVersion": "1.0.2",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1
+}
